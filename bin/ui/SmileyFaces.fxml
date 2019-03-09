@@ -3,6 +3,6 @@
 <?import javafx.scene.layout.AnchorPane?>
 
 
-<AnchorPane fx:id="pane" prefHeight="444.0" prefWidth="531.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/10.0.1" fx:controller="ui.Controller">
+<AnchorPane fx:id="pane" onMouseClicked="#MouseClicked" prefHeight="444.0" prefWidth="531.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ui.Controller">
 	<!-- TODO Add Nodes -->
 </AnchorPane>
